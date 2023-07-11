@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NetAPI_VSC.Models
 {
-    public class ProductDto
+    public class SingleProduct
     {
         public string Id { get; set; } = Guid.NewGuid().ToString();
 

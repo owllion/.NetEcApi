@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetAPI_VSC.Models
+namespace NetEcApi.Models
 {
-    public class Product
+    public class User
     {
-       
-    }  
+        
+    }
 }
